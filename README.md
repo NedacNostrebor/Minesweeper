@@ -1,2 +1,2 @@
 # Minesweeper
-Old project
+Old project from programming 2 
